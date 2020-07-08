@@ -1,0 +1,13 @@
+C:\devbuild4\TablesOfPowers\obj\Debug\netcoreapp3.1\TablesOfPowers.csprojAssemblyReference.cache
+C:\devbuild4\TablesOfPowers\obj\Debug\netcoreapp3.1\TablesOfPowers.AssemblyInfoInputs.cache
+C:\devbuild4\TablesOfPowers\obj\Debug\netcoreapp3.1\TablesOfPowers.AssemblyInfo.cs
+C:\devbuild4\TablesOfPowers\obj\Debug\netcoreapp3.1\TablesOfPowers.csproj.CoreCompileInputs.cache
+C:\devbuild4\TablesOfPowers\bin\Debug\netcoreapp3.1\TablesOfPowers.exe
+C:\devbuild4\TablesOfPowers\bin\Debug\netcoreapp3.1\TablesOfPowers.deps.json
+C:\devbuild4\TablesOfPowers\bin\Debug\netcoreapp3.1\TablesOfPowers.runtimeconfig.json
+C:\devbuild4\TablesOfPowers\bin\Debug\netcoreapp3.1\TablesOfPowers.runtimeconfig.dev.json
+C:\devbuild4\TablesOfPowers\bin\Debug\netcoreapp3.1\TablesOfPowers.dll
+C:\devbuild4\TablesOfPowers\bin\Debug\netcoreapp3.1\TablesOfPowers.pdb
+C:\devbuild4\TablesOfPowers\obj\Debug\netcoreapp3.1\TablesOfPowers.dll
+C:\devbuild4\TablesOfPowers\obj\Debug\netcoreapp3.1\TablesOfPowers.pdb
+C:\devbuild4\TablesOfPowers\obj\Debug\netcoreapp3.1\TablesOfPowers.genruntimeconfig.cache
